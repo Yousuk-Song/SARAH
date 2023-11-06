@@ -5,4 +5,4 @@ usage: SARAH.py [-h] -n NAME -hap HAPLOTYPE -b BAM -c CHROM [-s SCORE] [-r REFER
 SARAH.py: error: the following arguments are required: -n/--NAME, -hap/--HAPLOTYPE, -b/--BAM, -c/--CHROM
 
 
-![Uploading Figure 1B.png…]()
+![Figure 1B](https://github.com/Yousuk-Song/SARAH/assets/71381603/d67e80a0-7987-4420-9353-3fa029599ea0)
