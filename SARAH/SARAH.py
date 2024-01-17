@@ -1,7 +1,7 @@
 #!/data2/home/song7602/miniconda3/bin/python3.11
 
 """
-The purpose of this python3 script is to separate WGS and Hi-C bam files into alleles based on haplotypes. (for archon http://devmh.iptime.org:25881/main/main.do)
+The purpose of this python3 script is to separate WGS and Hi-C bam files into alleles based on haplotypes.
 Author: Yousuk Song
 Last updated date: 2023.09.13
 """
